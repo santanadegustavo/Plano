@@ -1,2 +1,3 @@
 # Plano
-Irei criar um mini projeto simples 
+
+Mini projeto de area de plano.
